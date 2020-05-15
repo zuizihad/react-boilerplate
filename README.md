@@ -21,3 +21,5 @@ npm i react react-dom
 npm i -D babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 
 npm install -D babel-eslint @babel/core @babel/preset-env @babel/plugin-proposal-class-properties @babel/preset-react
+
+npm i -D eslint-plugin-react-hooks
